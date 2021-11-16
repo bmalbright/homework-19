@@ -1,6 +1,6 @@
 {
     "short_name": "Demo",
-    "name": "Web App Manifest Demo",
+    "name": "Web App Manifest Budget Tracker",
     "icons": [
       {
         "src": "/icons-192.png",
